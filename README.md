@@ -33,16 +33,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nelixao/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/nelixao/nelixao/output/snake.svg" alt="Snake animation" />
-
-###
