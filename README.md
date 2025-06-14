@@ -40,12 +40,11 @@
 ### 📫 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nelixao" target="_blank">
+  <a href="[https://www.linkedin.com/in/nelixao](https://www.linkedin.com/in/neli-ximena-celis-alonso-9908312a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:ncelisalonso@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-> 🦫 Powered by Capybara Energy
 
