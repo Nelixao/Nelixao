@@ -1,32 +1,51 @@
-<h2 align="center">Welcome to My Space 🌟🧩</h2>
+<h1 align="center">Hi there 👋, I'm Ximena Celis</h1>
+<h3 align="center">💻 Computer Engineering Student | 🚀 Passionate about tech and innovation</h3>
 
-<p align="center">print("Hello, World! 🌍")</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nelixao&label=Profile%20views&color=0e75b6&style=flat" alt="Nelixao" />
+</p>
 
-<img align="right" height="149" src="https://www.rainforest-alliance.org/wp-content/uploads/2021/06/capybara-square-1-400x400.jpg.webp" />
+---
 
-###
+### 👩‍💻 About Me:
+- 🌱 I’m currently learning **Spring Boot, Docker and DevOps**
+- 💬 Ask me about **Java, Python, SQL, or Frontend Basics**
+- 🎯 My goal: become a **full-stack dev and tech leader**
+- ✨ Fun fact: I'm a big fan of capybaras 🦫
+
+---
+### 🛠️ Tech Stack
+
+#### 👩‍💻 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+
+#### 🧰 Tools & Platforms
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nelixao&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nelixao&theme=radical" width="45%"/>
 </div>
 
-###
+---
+### 📫 Connect with me:
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ximena-celis-9908312a1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/nelixao" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-</div>
+  <a href="mailto:ncelisalonso@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+> 🦫 Powered by Capybara Energy
 
