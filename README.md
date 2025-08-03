@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student | Software Development | Cybersecurity</h3>
 
 <p align="center">
-  Focused on building scalable software solutions and continuously expanding knowledge in backend development, cloud technologies, and security best practices.
+  Dedicated to developing scalable software solutions with a strong focus on backend development, cloud technologies, and cybersecurity best practices.
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 🔗 Contact
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/neli-ximena-celis-alonso-9908312a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app&fbclid=IwY2xjawL7oeZleHRuA2FlbQIxMABicmlkETE5ZEkxbG56eWRuOVRON2JsAR6KcqUjej-E94pwstPKB6UeCPywZwoO2yfiQpiN5wj0M7yGZjyv8KA1JYO4kA_aem_emJpt5XzmA6dJYNcft1mwQ)" target="_blank">
+  <a href="https://www.linkedin.com/in/neli-ximena-celis-alonso-9908312a1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ncelis@gmail.com">
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -54,5 +54,5 @@ const ximena = {
   currentRole: "Computer Engineering Student @ UNAM",
   currentlyLearning: ["Spring Boot", "Docker", "Cybersecurity"],
   interests: ["Software Development", "Data Science", "Cloud Computing", "DevOps"],
-  softSkills: ["Analytical Thinking", "Team Collaboration", "Problem Solving"]
+  softSkills: ["Analytical Thinking", "Collaboration", "Problem Solving"]
 }
