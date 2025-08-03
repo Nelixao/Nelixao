@@ -23,20 +23,23 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nelixao&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nelixao&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nelixao&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nelixao&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelixao&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelixao&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+---
 
 ## 🛠 Technical Skills
 
@@ -57,7 +60,7 @@
 const ximena = {
   fullName: "Ximena Cea",
   currentRole: "Computer Engineering Student @ UNAM",
-  currentlyLearning: ["Spring Boot", "Docker", "Cybersecurity"],
+  inProgress: ["Spring Boot", "Docker", "Cybersecurity"],
   interests: ["Software Development", "Data Science", "Cloud Computing", "DevOps"],
   softSkills: ["Analytical Thinking", "Collaboration", "Problem Solving"]
 }
