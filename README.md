@@ -10,10 +10,10 @@
 ## 🔗 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
+  <a href="[https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/neli-ximena-celis-alonso-9908312a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app&fbclid=IwY2xjawL7oeZleHRuA2FlbQIxMABicmlkETE5ZEkxbG56eWRuOVRON2JsAR6KcqUjej-E94pwstPKB6UeCPywZwoO2yfiQpiN5wj0M7yGZjyv8KA1JYO4kA_aem_emJpt5XzmA6dJYNcft1mwQ)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tu-email@gmail.com">
+  <a href="mailto:ncelis@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
