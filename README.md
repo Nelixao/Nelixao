@@ -12,7 +12,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Nelixao&theme=tokyonight" height="150"/>
 </p>
 <p align="center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelixao&layout=compact&theme=tokyonight" height="150"/> </p>
 ---
 
 ## About Me
@@ -25,4 +25,4 @@ const ximena = {
   interests: ["Software Development", "Data Science", "Cloud Computing", "DevOps"],
   softSkills: ["Analytical Thinking", "Team Collaboration", "Problem Solving"]
 }
-<p align="center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </p>
+
