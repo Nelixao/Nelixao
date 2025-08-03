@@ -1,19 +1,26 @@
-<h1 align="center">✨ Welcome to Xime's Organized Chaos ✨</h1>
-<h3 align="center">👩‍💻 Computer Engineering Student · 🤯 Bug Overthinker · 🦫 Capybara Enthusiast</h3>
+<h1 align="center">Ximena Cea</h1>
+<h3 align="center">Computer Engineering Student | Software Development | Cybersecurity</h3>
 
-<p align="center">🌎 print("Hello, World!") — but with style 💅</p>
+<p align="center">
+  Focused on building scalable software solutions and continuously expanding knowledge in backend development, cloud technologies, and security best practices.
+</p>
 
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nelixao&show_icons=true&theme=tokyonight" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Nelixao&theme=tokyonight" height="150"/> </p>
-### 👀 About Me
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nelixao&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nelixao&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## About Me
 
 ```js
-const xime = {
-  nickname: "Nelixao",
-  pronouns: "she/her 💁‍♀️",
-  energy: "Sleep-deprived but dream-fueled 💤🚀",
-  currentlyLearning: ["Spring Boot", "Docker", "Cybersecurity (because I’m nosey 🕵️‍♀️)"],
-  passions: ["Tech 💻", "Capybaras 🦫", "Solving weird bugs 🐞", "Breaking stereotypes 🎭"],
-  funFact: "I talk to my code like it's going to listen."
+const ximena = {
+  fullName: "Ximena Cea",
+  currentRole: "Computer Engineering Student @ UNAM",
+  currentlyLearning: ["Spring Boot", "Docker", "Cybersecurity"],
+  interests: ["Software Development", "Data Science", "Cloud Computing", "DevOps"],
+  softSkills: ["Analytical Thinking", "Team Collaboration", "Problem Solving"]
 }
