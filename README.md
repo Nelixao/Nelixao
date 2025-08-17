@@ -7,7 +7,7 @@
 
 ---
 
-## 🔗 Contact
+## 🔗 Contac
 
 <p align="center">
   <a href="https://www.linkedin.com/in/neli-ximena-celis-alonso-9908312a1" target="_blank">
