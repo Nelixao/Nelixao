@@ -42,8 +42,7 @@
 
 ---
 
-## 🌸 About Me (Kawaii Mode ON)  
-
+## 🌸 About Me 
 ```js
 const ximena = {
   fullName: "🌷 Ximena Cea 🌷",
