@@ -1,9 +1,9 @@
-# 🌸✨ Ximena Cea ✨🌸  
+# ✨ Ximena Cea ✨
 
-<h3 align="center">🎮 Computer Engineering Student | 💖 Backend & Cybersecurity | 🌈 Cloud Explorer</h3>  
+<h3 align="center">🎮 Computer Engineering Student |  Backend & Cybersecurity |  Cloud Explorer</h3>  
 
 <p align="center">
-  🌟 Turning coffee ☕ into code 💻 | Forever leveling up 🚀 | Pink vibes only 💕  
+   Turning coffee ☕ into code 💻 | Forever leveling up 🚀 | Pink vibes only 💕🌈
 </p>  
 
 ---
