@@ -23,20 +23,20 @@
 ## **GitHub Insights**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nelixao&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nelixao&theme=transparent&hide_border=true&ring=000000&fire=555555&currStreakLabel=000000" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nelixao&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nelixao&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelixao&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelixao&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff" height="160"/>
 </p>
 
 
 
-## **Technologies & Tools**
+
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,docker,git,linux,python,mysql,react,html,css&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,linux&perline=6" />
 </p>
 
 
