@@ -44,7 +44,7 @@
 
 ```js
 const ximena = {
-  name: "Ximena Cea",
+  name: "Neli Ximena Celis Alonso",
   field: "Computer Engineering @ UNAM",
   interests: ["Backend Development", "Cybersecurity", "Cloud Infrastructure"],
   learning: ["Spring Boot", "Docker", "System Security"],
