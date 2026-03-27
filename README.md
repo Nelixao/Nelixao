@@ -41,6 +41,6 @@ Interests  →  Backend Development · Cloud Infrastructure · Cybersecurity
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neli-ximena-celis-alonso-9908312a1)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ncelis@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ncelisalonso@gmail.com)
 
 </div>
