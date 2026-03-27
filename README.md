@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ximena Cea
+# Neli Ximena Celis
 
 **Estudiante de Ingeniería en Computación · UNAM · Ciudad de México**
 
@@ -10,8 +10,8 @@
 
 ### About me
 
-Apasionada por el desarrollo backend, los sistemas en la nube y la automatización de datos.  
-Me enfoco en construir soluciones escalables, eficientes y bien estructuradas.
+Aprendo mejor cuando entiendo el porqué de las cosas. :)
+
 
 ```
 Interests  →  Backend Development · Cloud Infrastructure · Cybersecurity
@@ -26,7 +26,7 @@ Currently  →  Exploring Spring Boot, Docker & System Security
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Nelixao&theme=default&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=555555&dates=555555&currStreakNum=000000&sideNums=000000" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelixao&layout=compact&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff" height="150"/>
+
 
 </div>
 
