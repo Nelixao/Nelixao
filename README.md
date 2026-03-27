@@ -1,52 +1,40 @@
-# **Ximena Cea**
+<div align="center">
 
-<h3 align="center">Computer Engineering Student</h3>
+# Ximena Cea
 
-<p align="center">
-  Passionate about technology, backend development, and cloud systems.  
-  Focused on solving problems through scalable, efficient, and well-structured solutions.
-</p>
+**Estudiante de Ingeniería en Computación · UNAM · Ciudad de México**
 
-## **Connect with Me**
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/neli-ximena-celis-alonso-9908312a1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000"/>
-  </a>
-  <a href="mailto:ncelis@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-f9f9f9?style=for-the-badge&logo=gmail&logoColor=000000"/>
-  </a>
-</p>
+---
 
+### About me
 
+Apasionada por el desarrollo backend, los sistemas en la nube y la automatización de datos.  
+Me enfoco en construir soluciones escalables, eficientes y bien estructuradas.
 
-## **GitHub Insights**
+```
+Interests  →  Backend Development · Cloud Infrastructure · Cybersecurity
+Currently  →  Exploring Spring Boot, Docker & System Security
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nelixao&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nelixao&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="160"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelixao&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff" height="160"/>
-</p>
+### GitHub Stats
 
+<div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Nelixao&theme=default&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=555555&dates=555555&currStreakNum=000000&sideNums=000000" height="150"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelixao&layout=compact&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff" height="150"/>
 
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux&perline=6" />
-</p>
+---
 
+<div align="center">
 
-## **About Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neli-ximena-celis-alonso-9908312a1)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ncelis@gmail.com)
 
-```js
-const ximena = {
-  name: "Neli Ximena Celis Alonso",
-  field: "Computer Engineering @ UNAM",
-  interests: ["Backend Development", "Cybersecurity", "Cloud Infrastructure"],
-  learning: ["Spring Boot", "Docker", "System Security"],
-  mindset: ["Analytical", "Collaborative", "Driven by curiosity"]
-};
+</div>
