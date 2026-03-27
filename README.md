@@ -8,17 +8,23 @@
 
 ---
 
-### About me
-
-Aprendo mejor cuando entiendo el porqué de las cosas. :)
-
 
 ```
 Interests  →  Backend Development · Cloud Infrastructure · Cybersecurity
-Currently  →  Exploring Spring Boot, Docker & System Security
 ```
 
 ---
+**Tech I've worked with**
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+
+</div>
 
 ### GitHub Stats
 
